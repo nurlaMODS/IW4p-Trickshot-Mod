@@ -8,10 +8,7 @@ Welcome to the IW4p Trickshot Mod, a mod for IW4x
 UnZip the IW4p Trickshot Mod folder, then drag IW4p By Nurla into the IW4x Mods folder
 
 # How to setup a game
-
-When you load the mod in IW4x click "GAME SETTINGS" and change the game mode to "Search and Destory"
-	(YOU MUST THE GO BACK AND "PRESS START IW4p" IF NOT THE GAME WONT LOAD)
-
+Just pick a map and press start IW4p
 
 # How to setup the bot and regen ammo
 
@@ -21,8 +18,17 @@ On controller crouch and press left dpad
 On Kbam Crouch and press what you use for your weapon attachment (actionslot 1)
 
 //REGEN AMMO\\
-crouch and knife on controller and kbam. thats it.
+crouch and knife on controller and kbam. 
 
+//GIVE CARE PACK\\
+prone dpad up or down on controller and kbam
+
+//GIVE PRED\\
+prone and dpad left or right on controller and kbam
+
+# credit 
+
+THANK YOU @plugwalker47 FOR HELP AND OTHER AMAZING THINGS :)
 
 # Links to Socails
 
