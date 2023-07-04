@@ -10,12 +10,7 @@ UnZip the IW4p Trickshot Mod folder, then drag IW4p By Nurla into the IW4x Mods 
 # How to setup a game
 Just pick a map and press start IW4p
 
-# How to setup the bot and regen ammo
-
-//HOW TO MOVE BOT\\
-On controller crouch and press left dpad
-
-On Kbam Crouch and press what you use for your weapon attachment (actionslot 1)
+# How to regen ammo
 
 //REGEN AMMO\\
 crouch and knife on controller and kbam. 
